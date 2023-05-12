@@ -2,7 +2,7 @@
   
   > Status do projeto: Em desenvolvimento
   
-  Para rodar esse projeto em sua máquina, por favor digite:
+  <p>Para rodar esse projeto em sua máquina, por favor digite:</p>
   
   ```
   npm instll react
