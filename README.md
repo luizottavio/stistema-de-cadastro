@@ -5,5 +5,5 @@
   <p>Para rodar esse projeto em sua máquina, por favor digite:</p>
   
   ```
-  npm instll react
+  node app.js
   ```
